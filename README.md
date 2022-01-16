@@ -1,4 +1,5 @@
 # Marlin 3D Printer Firmware for Flying Bear 4S and 5
+Кофигурация изменена под принтер с установленным директом.
 
 Это конфигурация [официального Marlin](https://github.com/MarlinFirmware/Marlin) для принтера Flying Bear Ghost 4S и 5. На данный момент поддерживаются платы MKS Robin Nano 1.x, MKS Robin Nano v2, MKS Robin Nano-s v1.3, MKS Robin Nano v1.3
 
